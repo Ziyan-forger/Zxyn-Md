@@ -2,18 +2,18 @@
 
 Yg Mau Sv Nomerku?
 
-wa.me/6285875158363
+wa.me/6285714056133
 
 Minimal Kasih Cr kalo mau reupload😡
-Create By Dika Ardnt.
-Recode By Naze & ( Nama Lu )
+Created By Dika Ardnt.
+Recode By Naze & Zynn
 
 Kalau Sampai Ketemu Lagi Creator Bot
 Yg Reupload Tanpa Kasih Cr 
 Sc Akan Saya Encode
 
 Base : Hisoka
-Recode : Naze & ( Nama Lu )
+Recode : Naze & Zynn
 
 **/
 
@@ -31,11 +31,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['6285714056133']
+global.ownernomer = "6285714056133"
+global.premium = ['6285714056133']
 global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.author = 'Zynn-XD'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
